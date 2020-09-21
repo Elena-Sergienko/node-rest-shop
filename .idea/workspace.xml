@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="406298e5-1b37-49d9-9a13-99b06561542c" name="Default Changelist" comment="Update (#11, 22:08). Mail exists">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="406298e5-1b37-49d9-9a13-99b06561542c" name="Default Changelist" comment="Update (#11, 27:30). User delete">
       <change beforePath="$PROJECT_DIR$/api/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/routes/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,7 @@
       <workItem from="1599925104867" duration="647000" />
       <workItem from="1600133818173" duration="28537000" />
       <workItem from="1600484839335" duration="610000" />
-      <workItem from="1600719746154" duration="7672000" />
+      <workItem from="1600719746154" duration="8012000" />
     </task>
     <task id="LOCAL-00001" summary="update (#8, 8:45)">
       <created>1600215686684</created>
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600730343009</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update (#11, 27:30). User delete">
+      <created>1600731167933</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600731167933</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +182,8 @@
     <MESSAGE value="Update (#11, 0:03)." />
     <MESSAGE value="Update (#11, 18:53). Add user" />
     <MESSAGE value="Update (#11, 22:08). Mail exists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update (#11, 22:08). Mail exists" />
+    <MESSAGE value="Update (#11, 27:30). User delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update (#11, 27:30). User delete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599770891386">
@@ -208,9 +214,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="117" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600729006243" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600730350829">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600731175823">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600730350829" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600731175823" />
   </component>
 </project>
